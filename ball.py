@@ -81,4 +81,5 @@ while running:
     clock.tick(30)  # Limit to 30 FPS
 
 pygame.quit()
+
 ser.close()
